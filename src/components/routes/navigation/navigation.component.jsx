@@ -1,4 +1,5 @@
-import { Fragment, useContext,Outlet } from "react";
+import { Fragment, useContext } from "react";
+import { useParams } from "react-router-dom";
 
 import { ReactComponent as CrwnLogo } from "../../../assets/crown.svg";
 
