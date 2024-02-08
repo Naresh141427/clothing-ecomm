@@ -9,7 +9,7 @@ const CategoryItem = ({ category }) => {
 
   return (
     <DirectoryItemContainer>
-      <BackgroundIMage imgeUrl={imageUrl} />
+      <BackgroundIMage imgeurl={imageUrl} />
       <Body>
         <h2>{title}</h2>
         <p>Shop Now</p>
