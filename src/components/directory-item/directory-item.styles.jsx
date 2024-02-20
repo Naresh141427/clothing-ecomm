@@ -5,7 +5,11 @@ export const BackgroundIMage = styled.div`
   height: 100%;
   background-size: cover;
   background-position: center;
+<<<<<<< HEAD
   background-image: ${({ imgeurl }) => `url(${imgeurl})`};
+=======
+  background-image: ${({ imageurl }) => `url(${imageurl})`};
+>>>>>>> 1b99bda55dffdb3464e91fa01ca7a1c1692033e2
 `;
 
 export const Body = styled.div`

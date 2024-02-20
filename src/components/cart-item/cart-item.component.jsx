@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> 1b99bda55dffdb3464e91fa01ca7a1c1692033e2
 import "./cart-item.styles.scss";
 
 const CartItem = ({ item }) => {
