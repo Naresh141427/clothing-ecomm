@@ -1,4 +1,3 @@
-import { and } from "firebase/firestore";
 import "./cart-item.styles.scss";
 
 const CartItem = ({ item }) => {
